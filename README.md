@@ -7,8 +7,7 @@
 <h2 align="center">🚀 Sobre mim</h2>
 
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia, focado em criar soluções web modernas e eficientes.
-  Atualmente trabalhando com Python, JavaScript e muito café ☕
+ Atualmente tentando aprender algo.
 </p>
 
 <div align="center">
