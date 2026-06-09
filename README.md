@@ -53,8 +53,4 @@
   </a>
 </div>
 
----
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ZakiSCzip&label=Visualiza%C3%A7%C3%B5es&color=6C63FF&icon=0&pretty=true" />
-</div>
